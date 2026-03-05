@@ -5,8 +5,8 @@ server:
 spring:
   datasource:
     url: jdbc:postgresql://localhost:9010/lovable-account-db
-    username: user
-    password: password
+    username: postgres
+    password: Sahid123@
     driver-class-name: org.postgresql.Driver
 
 stripe:
