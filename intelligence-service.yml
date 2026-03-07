@@ -19,6 +19,6 @@ spring:
         options:
           model: gpt-4o
           temperature: 0.2
-          stream-usage: false
+          
 
       
