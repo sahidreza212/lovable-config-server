@@ -1,0 +1,20 @@
+server:
+  port: 9030
+  servlet.context-path: /intelligence
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:9010/lovable-intelligence-db
+    username: user
+    password: password
+    driver-class-name: org.postgresql.Driver
+
+  ai:
+    openai:
+      api-key: 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
+      base-url: https://api.openai.com
+      chat:
+        options:
+          model: gpt-4o
+          temperature: 0.2
+          stream-usage: false
