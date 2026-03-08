@@ -10,15 +10,7 @@ spring:
     password: password
     driver-class-name: org.postgresql.Driver
 
-  ai:
-    openai:
-      api-key: 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
-      base-url: https://api.openai.com
-
-      chat:
-        options:
-          model: gpt-4o
-          temperature: 0.2
+ 
           
 
       
