@@ -12,7 +12,7 @@ spring:
 
   ai:
     openai:
-      api-key: sk-proj-ugjKcBB06Yf3WhYn8nR0a0iRfe0w9ixJZ-dZREAOD93Ql1QVFtaKisBJDNCbJRINEvyGa-37rUT3BlbkFJOa6api-key:VDW9URcuOAUgCjC5UGDa93y5fHdYFhEIPH3i22rfgINHV2gJk3Ha7yxOJ48oiZrEKFJ2DAA
+      api-key: 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
       base-url: https://api.openai.com/v1
       chat:
         options:
